@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     static int mod = (int) 1e9 + 7;
-    long countStrings(int n) {
+    public static long countStrings(int n) {
         long[][] dp = new long[2][n + 1];
         dp[0][1] = 1;
         dp[1][1] = 1;
