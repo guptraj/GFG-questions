@@ -1,3 +1,5 @@
+// QUESTION LINK
+// https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1
 import java.util.*;
 
 public class Main {

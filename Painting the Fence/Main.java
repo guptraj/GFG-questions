@@ -1,3 +1,5 @@
+// QUESTTION LINK
+// https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1
 public class Main {
     public static long mod = (long) 1e9 + 7;
 
